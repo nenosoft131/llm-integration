@@ -62,7 +62,7 @@ llm_engine=ChatOllama(
 
 # System prompt configuration
 system_prompt = SystemMessagePromptTemplate.from_template(
-    "You are an expert AI coding assistant. Provide concise, correct solutions "
+    "You are an expert AI coder. Provide concise, correct solutions "
     "with strategic print statements for debugging. Always respond in English."
 )
 
