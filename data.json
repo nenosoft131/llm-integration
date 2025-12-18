@@ -1,0 +1,26 @@
+[
+    {
+        "name": "SULTAN s",
+        "age": 250,
+        "gender": "Male",
+        "email_address": "user@abc.com",
+        "on_panel": true,
+        "cal_bmi": 20
+    },
+    {
+        "name": "MUSMAN",
+        "age": 90,
+        "gender": "Male",
+        "email_address": "user@abc.com",
+        "on_panel": true,
+        "cal_bmi": 180
+    },
+    {
+        "name": "MOTA101",
+        "age": 205,
+        "gender": "Male",
+        "email_address": "user@abc.com",
+        "on_panel": true,
+        "cal_bmi": 410
+    }
+]
