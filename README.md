@@ -40,6 +40,3 @@ This is an AI app built using Deepseek and Streamlit. It allows users to perform
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
